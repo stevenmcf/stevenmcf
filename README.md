@@ -1,7 +1,7 @@
-### Hi there 
+### Hullo, 
 
 - 📫 Reach me @ twitter @_stevenmcf
-- 🔭 [Coming Soon...](https://recordpurposes.com)
+- 🔭 Building a SaaS...[Coming Soon...](https://recordpurposes.com)
  
 
 <!--
