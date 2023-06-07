@@ -1,7 +1,7 @@
 ### Hi there 
 
-- 📫 How to reach me: twitter @_stevenmcf
-- 🔭 I’m currently working on recordpurposes.com
+- 📫 Reach me @ twitter @_stevenmcf
+- 🔭 [Coming Soon...](https://recordpurposes.com)
  
 
 <!--
